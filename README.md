@@ -17,8 +17,8 @@ My future goal is to specialize in the field of Artificial Intelligence. I am co
 ### 💡 Currently Working On
 
 * **Web Dashboard:** An administrative web dashboard developed for efficient **user maintenance and contract tracking**. This standalone application simplifies data management, allowing for easy **tracking, editing, and updating of key user and contract information.**
-**Discount App:** A **mobile application** built with Kotlin and Firebase, designed to help users discover and utilize personalized coupons. The app features **birthday notifications**, reminding users to check for exclusive coupons as their special day approaches.
-    * [Link to GitHub repo or live demo]
+* **Discount App:** A **mobile application** built with Kotlin and Firebase, designed to help users discover and utilize personalized coupons. The app features **birthday notifications**, reminding users to check for exclusive coupons as their special day approaches.
+
 
 ---
 
