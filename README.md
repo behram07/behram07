@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMxajJ3eXlsb3MxZDJmZ2twN29mc3NvOTQ4eXdnOTBvb3doNjNtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="100"/>
   <h1>Hi there, I'm Behram Erol 👋</h1>
-  <h3>A developer and student from Kaiserslautern, Germany.</h3>
+  <h3>A developer and student</h3>
 </div>
 
 ---
