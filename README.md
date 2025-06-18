@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMxajJ3eXlsb3MxZDJmZ2twN29mc3NvOTQ4eXdnOTBvb3doNjNtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="100"/>
-  <h1>Hi, I'm Behram Erol 👋</h1>
+  <h1>Hi, I'm Behram Erol</h1>
   <h3>Computer Science Student | Aspiring AI Engineer | Freelance Developer</h3>
 </div>
 
