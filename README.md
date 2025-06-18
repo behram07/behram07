@@ -22,7 +22,7 @@ My long-term goal is to specialize in **Artificial Intelligence**, with a strong
 ## Tech Stack
 
 **Languages & Frameworks**
-- Java, Kotlin, Python, JavaScript, PHP
+- Java, Kotlin, Python, PHP
 - HTML5, CSS3, TailwindCSS
 - Firebase, MySQL
 
@@ -31,9 +31,10 @@ My long-term goal is to specialize in **Artificial Intelligence**, with a strong
 - VS Code, Jupyter Notebook
 - Docker (learning), Google Cloud, AWS (exploring)
 
-**AI & Data Tools**
-- TensorFlow, PyTorch
-- Pandas, NumPy, OpenCV
+**AI & Data Tools (Learning & Using)**
+- Pandas, NumPy (actively using)
+- Exploring: TensorFlow, PyTorch
+- Next: OpenCV
 
 ---
 
@@ -53,7 +54,7 @@ Mobile app that delivers customized coupons. Includes birthday-based notificatio
 - Computer Vision with Python & OpenCV  
 - Cloud-based AI deployments (AWS, GCP)  
 - Containerization with Docker & Kubernetes  
-- Robotics foundations (as a hobby & interest)
+- Robotics foundations (interest)
 
 ---
 
