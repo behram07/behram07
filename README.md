@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGMxajJ3eXlsb3MxZDJmZ2twN29mc3NvOTQ4eXdnOTBvb3doNjNtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif" width="100"/>
-  <h1>Hi, I'm Behram Erol</h1>
+  <h1>Hi, I'm Behram Erol 👋</h1>
   <h3>Computer Science Student | Aspiring AI Engineer | Freelance Developer</h3>
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm currently studying **Applied Computer Science** at HS Kaiserslautern, where I focus on practical software development and real-world problem solving.
 
@@ -19,7 +19,7 @@ My long-term goal is to specialize in **Artificial Intelligence**, with a strong
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 - Java, Kotlin, Python, PHP
@@ -38,7 +38,7 @@ My long-term goal is to specialize in **Artificial Intelligence**, with a strong
 
 ---
 
-## Current Projects
+## 📌 Current Projects
 
 **Web Dashboard**  
 Admin panel for managing users and contracts efficiently. Features user tracking, editing, and analytics.
@@ -48,7 +48,7 @@ Mobile app that delivers customized coupons. Includes birthday-based notificatio
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Advanced ML & Deep Learning techniques  
 - Computer Vision with Python & OpenCV  
@@ -58,7 +58,7 @@ Mobile app that delivers customized coupons. Includes birthday-based notificatio
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=behram07&show_icons=true&theme=radical" height="165"/>
@@ -67,7 +67,7 @@ Mobile app that delivers customized coupons. Includes birthday-based notificatio
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behramerol/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Behram_erl)
