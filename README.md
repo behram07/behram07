@@ -58,15 +58,6 @@ Mobile app that delivers customized coupons. Includes birthday-based notificatio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=behram07&show_icons=true&theme=radical&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behram07&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behramerol/)
